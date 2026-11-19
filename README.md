@@ -22,7 +22,8 @@ Proyecto Final Integrador bajo la **Opción D (Dataset Propio)** que articula el
 ## Instalación y Generación del Dataset
 
 ```bash
-git clone https://github.com/tu-usuario/mineria-datos-clasificacion-tabaco.git
+git clone https://github.com/LUCAS-18PROG/tefi-clasificacion-tabaco.git
+cd tefi-clasificacion-tabaco
 cd mineria-datos-clasificacion-tabaco
 pip install -r requirements.txt
 python src/generar_dataset.py
